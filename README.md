@@ -1,0 +1,1 @@
+# alfred_google_cn_translate
